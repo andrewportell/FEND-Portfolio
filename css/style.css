@@ -5,7 +5,7 @@ body {
 }
 
 .text-muted {
-	color: #79a5d2;
+	color: #7a7a52;
 }
 
 .text-uppercase {
@@ -27,5 +27,4 @@ body {
 hr {
 	height: 4px;
 	background-color: #7a7a52;
-
 }
